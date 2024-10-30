@@ -54,7 +54,8 @@ for (let i = 0; i < result.length; i++) {
             for (const key2 of keys) {
                 for (const voisin of voisins) {
                     if (key2 === voisin) {
-                        let d: number = 
+                        let d: number = /////////////////// distanceeee
+                        
                         if (result[i][key] > result[i][voisin] + ) {
 
                         }
